@@ -1,2 +1,5 @@
-# Generative-AI-Repo
-This is the Repo for Gen AI course
+# Generative AI — Jio Institute PGP AI&DS (AY 2026-27)
+
+This repository contains coursework, and assignments for the **Generative AI** module of the **PGP in Artificial Intelligence & Data Science (AY 2026-27)** program at Jio Institute.
+
+It serves as the central space for code, notebooks, and resources shared throughout the course.
